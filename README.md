@@ -15,3 +15,6 @@ Dans un troisième temps : création d'un modèle multimodal s'appuyant sur le t
 Enfin nous avons testé la collecte de data à partir d'une API (pour éventuellement entrainer le modèle sur d'autres catégories d'articles) - [3_script_API](3_script_API.ipynb)
 
 ![image](https://github.com/estellec18/image_classification/assets/126951321/a71ea893-e381-47e6-a4bb-b45e7b3dba56)
+
+
+Le projet et les résultats sont présentés dans [un powerpoint](Presentation_projet.pdf)
